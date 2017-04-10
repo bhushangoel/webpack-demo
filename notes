@@ -1,0 +1,4 @@
+1. install webpack globally >> 1.13.3
+2. install webpack-dev-server globally >> 1.9.0
+3. for this tutorial we are using older versions of both
+4. webpack-dev-server commands >> webpack-dev-server and webpack-dev-server --inline
